@@ -1,0 +1,7 @@
+body{
+  direction: rtl;
+  font-family: 'sans';
+  margin: 0;
+  padding: 8px;
+  box-sizing: border-box;
+}
